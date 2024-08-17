@@ -1,0 +1,10 @@
+URL_REGISTRATION = "https://stellarburgers.nomoreparties.site/api/auth/register"
+URL_DELETE = "https://stellarburgers.nomoreparties.site/api/auth/user"
+ORDER_HISTORY_URL = 'https://stellarburgers.nomoreparties.site/account/order-history'
+LAST_ORDER_URL = 'https://stellarburgers.nomoreparties.site/feed/66c096c09ed280001b496a5b'
+ORDER_FEED_URL = 'https://stellarburgers.nomoreparties.site/feed'
+MAIN_PAGE_URL = 'https://stellarburgers.nomoreparties.site/'
+RECOVER_PASSWORD_URL = 'https://stellarburgers.nomoreparties.site/forgot-password'
+RESET_PASSWORD_URL = 'https://stellarburgers.nomoreparties.site/reset-password'
+LOGIN_PAGE_URL = 'https://stellarburgers.nomoreparties.site/login'
+PROFILE_URL = 'https://stellarburgers.nomoreparties.site/account/profile'
