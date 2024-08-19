@@ -1,0 +1,1 @@
+USER_DATA = {'email': 'sadertdinov99@gmail.com', 'password': '123123123', 'name': 'Azat Test'}
